@@ -53,7 +53,7 @@ if(!defined('Security')) {
                 </div>
                 <div class="row">
                     Developer of this racing game, read the  
-                    <a class="link_light" href="https://github.com/nisar86/js-racer-turbo#js-racer-turbo" title="Read the readme file in Markdown format on GitHub." target="_blank" rel="nofollow">README.md</a> 
+                    <a class="link_light" href="https://github.com/nisar86/js-racer-turbo#js-racer-turbo" title="Read the readme file (Markdown format) on GitHub." target="_blank" rel="nofollow">README.md</a> 
                     file to get an overview of what has been done in this version.
                 </div>
                 
