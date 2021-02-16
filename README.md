@@ -222,7 +222,7 @@ that also makes use of a database.
 
 The game is licensed by MIT which includes most of the assets, with the exception of some components which are subject to the usage restrictions which are described in the license.
 
-* [License of JS Racer Turbo](https://www.nisar.it/app/js-racer-turbo/LICENSE.html)
+* [License of JS Racer Turbo](https://www.nisar.it/app/js-racer-turbo/license.html)
 
 # Screenshot
 
