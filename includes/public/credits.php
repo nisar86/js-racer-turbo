@@ -52,8 +52,8 @@ if(!defined('Security')) {
                     </a>
                 </div>
                 <div class="row">
-                    Developer of this racing game, read the  
-                    <a class="link_light" href="https://github.com/nisar86/js-racer-turbo#js-racer-turbo" title="Read the readme file (Markdown format) on GitHub." target="_blank" rel="nofollow">README.md</a> 
+                    Developer of this racing game, read the 
+                    <a class="link_light" href="https://github.com/nisar86/js-racer-turbo#readme" title="Read the readme file (Markdown format) on GitHub." target="_blank" rel="nofollow">README.md</a> 
                     file to get an overview of what has been done in this version.
                 </div>
                 
@@ -128,7 +128,7 @@ if(!defined('Security')) {
                     <strong>License</strong>
                 </div>
                 <div class="row">
-                    <a class="link_light" href="LICENSE.html" target="_blank" title="License">
+                    <a class="link_light" href="license.html" target="_blank" title="License">
                         License of JS Racer Turbo
                         <small><?php echo $jsrgame->show_game_desc('gameinfo','version'); ?></small>
                     </a>
