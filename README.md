@@ -11,8 +11,8 @@ After being pleasantly impressed by the potential of the game engine, the additi
 
 # Racing Game
 
- * [Play The Game](https://www.nisar.it/app/js-racer-turbo/js-racer-turbo/)
- * View the [Source](https://github.com/nisar86/javascript-racer)
+ * [Play The Game](https://www.nisar.it/app/js-racer-turbo/)
+ * View the [Source](https://github.com/nisar86/js-racer-turbo)
 
 Incrementally built up in 7 parts:
 
@@ -109,7 +109,7 @@ that also makes use of a database.
 
 **New features in this release:**
 
-**[Fork by Nisar Abed](https://github.com/nisar86/javascript-racer)**
+**[Fork by Nisar Abed](https://github.com/nisar86/js-racer-turbo)**
 
 * **Total graphic restyling for the interface:**
  * **Game loading graphics** showing elements for user interaction only when the game is loaded. 
