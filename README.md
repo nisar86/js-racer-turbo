@@ -18,8 +18,8 @@ Incrementally built up in 7 parts:
 
  * Play the [Game: Turbo Fastest Lap](https://www.nisar.it/app/js-racer-turbo/turbo-fastest-lap.php)
  * Play the [Game: Turbo Out Of Time](https://www.nisar.it/app/js-racer-turbo/turbo-out-of-time.php)
- * Play the [Game: Classic Fastest Lap](https://www.nisar.it/app/js-racer-turbo/classic-fastest-lap.php)
- * Play the [Game: Classic Out Of Time](https://www.nisar.it/app/js-racer-turbo/classic-out-of-time.php)
+ * Play the [Game: Classic Fastest Lap](https://www.nisar.it/app/js-racer-turbo/fastest-lap.php)
+ * Play the [Game: Classic Out Of Time](https://www.nisar.it/app/js-racer-turbo/out-of-time.php)
  * Play the [Demo: Straight](https://www.nisar.it/app/js-racer-turbo/straight.php)
  * Play the [Demo: Curves](https://www.nisar.it/app/js-racer-turbo/curves.php)
  * Play the [Demo: Hills](https://www.nisar.it/app/js-racer-turbo/hills.php)
