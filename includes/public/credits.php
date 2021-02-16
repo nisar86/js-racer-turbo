@@ -65,7 +65,7 @@ if(!defined('Security')) {
                 <div class="row">
                     <i>
                         The contributions of third parties listed in the 
-                        <a class="link_light" href="LICENSE.html" target="_blank" title="Software License">software license</a>.
+                        <a class="link_light" href="license.html" target="_blank" title="Software License">software license</a>.
                     </i>
                 </div>
                 <div class="row">
