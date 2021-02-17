@@ -110,8 +110,8 @@ if(!defined('Security')) {
                             <div class="input">
                                 <select id="currentTiltHorizonFx" autocomplete="off">
                                     <option value="disabled">Disabled</option>
-                                    <option value="css">Active (CSS)</option>
-                                    <option value="drawing">Active (Drowing)</option>
+                                    <option value="css">Active - Via CSS (Experimental)</option>
+                                    <option value="drawing">Active - Via Drowing (Experimental)</option>
                                 </select>
                             </div>
                         </label>
