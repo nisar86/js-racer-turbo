@@ -36,5 +36,5 @@ $jsrUrlVersion = $jsrgame->show_game_desc('gameinfo','version','url');
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MXZZ3FX');</script>
+})(window,document,'script','dataLayer','GTM-MDS4WWD');</script>
 <!-- End Google Tag Manager -->
