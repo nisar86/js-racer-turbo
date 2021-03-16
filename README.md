@@ -1,13 +1,15 @@
 # JS Racer Turbo
 
 Retrowave / Synthwave style racing game inspired by Outrun, written in HTML5, Javascript (Vanilla and jQuery) and PHP, developed on the fantastic game engine created by [Jakes Gordon](https://github.com/jakesgordon/javascript-racer) ([Code InComplete](https://codeincomplete.com/articles/javascript-racer/)) and starting from the fork of [Stephen Karl Larroque](https://github.com/lrq3000/javascript-racer).
+Responsive browser game, compatible with computers and mobile devices. 
+
 
 *JS Racer Turbo - Let's give the Turbo to racing and development!*
 
 After being pleasantly impressed by the potential of the game engine, the addition of the turbo and the ability to play via the browser, I wanted to continue the development with my skills as a Front-end Developer, so in this version I focused mainly on graphic aspect (textures and interface) and user experience (usability and entertainment).
 *([Nisar Abed](https://www.nisar.it/))*
 
-![Screenshot JS Racer Turbo Out Of Time](https://www.nisar.it/app/js-racer-turbo/screenshots/js_racer_turbo_outoftime.jpg)
+[![Screenshot JS Racer Turbo Out Of Time](https://www.nisar.it/app/js-racer-turbo/screenshots/js_racer_turbo_video_preview.jpg)](https://www.youtube.com/watch?v=SmYpao7-I1I)
 
 # Racing Game
 
@@ -48,7 +50,7 @@ The game system has been developed to fully adapt to the most popular browser wi
 *Currently supported browsers include:*
 
  * **Mozilla Firefox** - v85 tested on: Android, iOS, Windows, Mac - **Works Great**!
- * **Google Chrome** - v88 tested on: Android, iOS, Windows, Mac - **Works Great**!
+ * **Google Chrome** - v88 tested on: Android, iOS, Windows, Mac - **Works Good**.
  * **Safari** - v13 tested on Mac and iOS - **Works Good**.
  * **Opera** - v73 tested on Windows, Mac - **Works Good**.
 
@@ -134,6 +136,7 @@ that also makes use of a database.
 * **New Game textures and colors**:
  * **Sprites**: New Sprites of the Car and all game elements. 
  * **Landscapes**: New day and night landscapes composed of background images and colors.
+ * **The landscape controls** in the settings menu allow you to change the landscape and set the frequency of the change every number of laps.
  * **Dynamic colors**: Most of the elements have a continuous cycle of colors (ranging from an initial color to a final color), these colors also change according to the landscape and current events (Turbo), or elements (Finish Line) of the game.
 * **Weather effects**: Graphic effects of the weather conditions.
  * **Snow**: Particle effect that simulates snow (*connected to game events and car controls*).
@@ -146,7 +149,9 @@ that also makes use of a database.
  * The **Halloween period** (10/29 - 11/02) and the **winter period** (**holiday season** | 12/15 - 01/15) are set so that the game starts with special conditions. 
 * **Vibration device**: The device vibrates when certain game events occur (*it is not supported by all devices*).
 * **Soundtrack** with multiple tracks and **audio Fx sounds**, all audio is new and licensed for this project (read the license for more info).
-* **Soundtrack listening system** with a single audio file and chapters, you can switch from track to track from the settings panel.
+* **Listening system of the soundtrack** structured in chapters on a single audio file, it is possible to switch from one track to another using the previous and next buttons or by choosing the track from the settings panel.
+* **Shuffle Music Player**: Tracks can be played in random order (can be turned on or off from the settings menu). 
+* **Soundtrack Info**: Track information is displayed whenever a track is started, when the timeline is selected and when the play state is entered.
 * **Sound Fx**: Game Sounds (*it is not supported by all devices*):
  * **Car** (engine, turbo, braking, throttle, collision), 
  * **World** (sounds that play during the lap), 
@@ -174,6 +179,8 @@ that also makes use of a database.
 
 **If we were to try to turn it into a real game we would have to consider:**
 
+ * Enhance the Tilt Horizon Fx and create other dynamic effects.
+ * The game is paused when a button is pressed or when the main menu opens.
  * Dynamic music changes based on what happens in the game.
  * HUD in full screen mode.
  * Other HUD Fx (flash on fastest lap, confetti, etc).
@@ -183,6 +190,8 @@ that also makes use of a database.
  * More bounce when car is off road.
  * Screen shake when off-road or collision.
  * Throw up dirt particles when off road.
+ * The elements of the world move independently.
+ * The elements of the world can always remain the same or change.
  * More dynamic camera (lower at faster speed, swoop over hills etc).
  * Automatic resolution & drawDistance detection.
  * Projection based curves ? x,y rotation.
@@ -212,7 +221,9 @@ that also makes use of a database.
 
 # Related Links
 
- * How-To Guide: [Lou's Pseudo-3d Page](http://www.extentofthejam.com/pseudo/) *(High level Guide!!)*
+ * Youtube: [JS Racer Turbo Demonstration](https://www.youtube.com/watch?v=SmYpao7-I1I).
+ * Article: [How to build a racing game (Jake Gordon)](https://codeincomplete.com/posts/javascript-racer/).
+ * How-To Guide: [Lou's Pseudo-3d Page](http://www.extentofthejam.com/pseudo/) *(High level Guide!)*.
  * Another Game: [Racer 10k](https://github.com/onaluf/RacerJS).
  * Another Game: [OutRun (No Canvas)](https://codepen.io/arcs/pen/aGzNKY).
  * Another Game: [Old School Racing Game](https://codepen.io/johan-tirholm/pen/PGYExJ).
@@ -220,11 +231,14 @@ that also makes use of a database.
 
 # License
 
-The game is licensed by MIT which includes most of the assets, with the exception of some components which are subject to the usage restrictions which are described in the license.
+The game is licensed under a **Creative Commons Attribution 4.0 International (CC BY 4.0) Public License** which includes most of the assets, **except for some components which are subject to their own licenses**.
+Read the license documentation attached to JS Racer Turbo for more information *(LICENSE.txt, license.html)*.
+
 
 * [License of JS Racer Turbo](https://www.nisar.it/app/js-racer-turbo/license.html)
 
 # Screenshot
 
+![Screenshot JS Racer Turbo Out Of Time](https://www.nisar.it/app/js-racer-turbo/screenshots/js_racer_turbo_outoftime.jpg)
 ![Screenshot JS Racer Turbo Intro](https://www.nisar.it/app/js-racer-turbo/screenshots/js_racer_turbo_intro.jpg)
 ![Screenshot JS Racer Turbo Intro](https://www.nisar.it/app/js-racer-turbo/screenshots/js_racer_turbo_fastestlap.jpg)

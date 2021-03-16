@@ -1,25 +1,124 @@
-Copyright (c) 2012, 2013, 2014, 2015, 2016 Jake Gordon and contributors
+JS Racer Turbo (Racing Game) License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (C) 2020, 2021 Nisar Abed and Contributors.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This software incorporates work covered by the 
+following copyright and permission notices:
 
-===============================================================================
+- javascript-racer 
+  Copyright (C) 2012, 2013, 2014, 2015, 2016 Jake Gordon and contributors,
+  MIT License, https://codeincomplete.com/articles/javascript-racer
 
-License: 
-MIT http://www.opensource.org/licenses/mit-license.php
-This project uses third party components subject to their own license terms. 
+- javascript-racer v5 (by Stephen Karl Larroque) 
+  Copyright (C) 2012, 2013, 2014, 2015, 2016 Jake Gordon and contributors,
+  MIT License, https://github.com/lrq3000/javascript-racer
+
+- Stats.js 
+  Copyright (c) 2009-2016 stats.js Authors,
+  MIT License, https://github.com/mrdoob/stats.js/
+
+- Animate.css 
+  Copyright (C) 2019 Daniel Eden, 
+  MIT License, animate.style
+
+- Green Audio Player 
+  Copyright (C) 2018 Greg Hovanesyan,
+  MIT License, https://github.com/greghub/green-audio-player
+
+- jQuery v3.4.1 
+  Copyright (C) JS Foundation and other contributors, 
+  jquery.org License, https://jquery.com/
+
+- JavaScript Cookie v2.2.1 
+  Copyright (C) 2006, 2015, 2018 Klaus Hartl, Fagner Brack, GitHub Contributors,
+  MIT License, https://github.com/js-cookie/js-cookie
+
+- Loading-Bar 
+  Copyright (c) 2017 loading.io,
+  MIT License, loading.io
+
+- WOW v1.1.2 
+  Copyright (c) 2015 Matthieu Aussaguel,
+  MIT License, mynameismatthieu.com
+
+- Font Lazer84 
+  Copyright (c) 2015 SUNRISE DIGITAL, Juan Hodgson Authors,
+  SIL Open Font License v1.1, sunrise-digital.net
+
+- Font Omegaforce v1.2 
+  Copyright (C) 2014 Iconian Fonts, Daniel Zadorozny,
+  Free for All Non-Commercial Uses License, www.iconian.com
+
+- Font Roboto Copyright (c) Google LLC 
+  Without Limitations License, www.google.com
+
+- Soundtrack "I Bet U Kunt Go Faster" 
+  Copyright (C) 2018 Roborama,
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
+  https://ghostcity.bandcamp.com/track/i-bet-u-kunt-go-faster
+
+- Soundtrack "Sentinel" 
+  Copyright (C) 2021 Ankubu,  
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
+  https://ankubu.bandcamp.com/
+
+- Soundtrack "Bella con me fra (Instrumental)" 
+  Copyright (C) 2021 Serpe Terror,
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License
+
+- Sounds (Audio Fx) 
+  Copyright (C) 2021 No-oN, Nisar Abed - 
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
+  www.havesomenoon.com , www.nisar.it
+
+- Graphics (Sprite and Background) 
+  Copyright (C) 2020, 2021 Nisar Abed,
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
+  www.nisar.it
+
+- Wherever third party code has been used, 
+  credit has been given in the code's comments.
+
+
+and
+
+
+- JS Racer Turbo (Racing Game) 
+  Copyright (c) 2020, 2021 Nisar Abed and Contributors,
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
+  www.nisar.it , https://github.com/nisar86/js-racer-turbo
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Copyright (C) 2020, 2021 Nisar Abed and Contributors
+
+Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) 
+Public License; You may obtain a copy of the License at:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+
+This is a human-readable summary of (and not a substitute for) the license.
+
+You are free to:
+Share - Copy and redistribute the material in any medium or format
+Adapt - Remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+Attribution - You must give appropriate credit, provide a link to the license, 
+and indicate if changes were made. You may do so in any reasonable manner, 
+but not in any way that suggests the licensor endorses you or your use. 
+No additional restrictions - You may not apply legal terms or technological measures 
+that legally restrict others from doing anything the license permits. 
+
+Notices: 
+You do not have to comply with the license for elements of the material in the public 
+domain or where your use is permitted by an applicable exception or limitation. 
+No warranties are given. The license may not give you all of the permissions necessary 
+for your intended use. For example, other rights such as publicity, privacy, 
+or moral rights may limit how you use the material. 
+
+https://creativecommons.org/licenses/by/4.0/

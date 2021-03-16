@@ -1,7 +1,7 @@
 <?php 
-//=========================================================================
+//=======================================================
 // JS RACER TURBO > DEFAULT (TURBO GAME MODE > FASTEST LAP)
-//=========================================================================
+//=======================================================
 // Security
 define('Security', TRUE); 
 // Game
@@ -13,12 +13,12 @@ $jsrgame = new Jsr_Helpers('turbo','fastestlap');
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title><?php echo $jsrgame->gamedata['page']['title']; ?></title>
-    <meta name="description"  content="<?php echo $jsrgame->gamedata['page']['meta_desc']; ?>" />
-    <meta property="og:title" content="<?php echo $jsrgame->gamedata['page']['title']; ?>" />
-    <meta property="og:description" content="<?php echo $jsrgame->gamedata['page']['meta_desc']; ?>" />
-    <meta name="twitter:title" content="<?php echo $jsrgame->gamedata['page']['title']; ?>" />
-    <meta name="twitter:description" content="<?php echo $jsrgame->gamedata['page']['meta_desc']; ?>" />
+    <title><?php echo $jsrgame->show_game_desc('homepage','title'); ?></title>
+    <meta name="description"  content="<?php echo $jsrgame->show_game_desc('homepage','description'); ?>" />
+    <meta property="og:title" content="<?php echo $jsrgame->show_game_desc('homepage','title'); ?>" />
+    <meta property="og:description" content="<?php echo $jsrgame->show_game_desc('homepage','description'); ?>" />
+    <meta name="twitter:title" content="<?php echo $jsrgame->show_game_desc('homepage','title'); ?>" />
+    <meta name="twitter:description" content="<?php echo $jsrgame->show_game_desc('homepage','description'); ?>" />
     <?php require('includes/public/head.php'); ?>
 </head>
 <body class="notranslate <?php echo $jsrgame->gamedata['page']['body_class']; ?>">
