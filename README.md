@@ -1,6 +1,6 @@
 # JS Racer Turbo
 
-Retrowave / Synthwave style racing game inspired by Outrun, written in HTML5, Javascript (Vanilla and jQuery) and PHP, developed on the fantastic game engine created by [Jakes Gordon](https://github.com/jakesgordon/javascript-racer) ([Code InComplete](https://codeincomplete.com/articles/javascript-racer/)) and starting from the fork of [Stephen Karl Larroque](https://github.com/lrq3000/javascript-racer).
+Retrowave / Synthwave style racing game inspired by Outrun, written in HTML5, CSS, Javascript (Vanilla and jQuery) and PHP, developed on the fantastic game engine created by [Jakes Gordon](https://github.com/jakesgordon/javascript-racer) ([Code InComplete](https://codeincomplete.com/articles/javascript-racer/)) and starting from the fork of [Stephen Karl Larroque](https://github.com/lrq3000/javascript-racer).
 Responsive browser game, compatible with computers and mobile devices. 
 
 
