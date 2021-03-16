@@ -15,7 +15,7 @@ After being pleasantly impressed by the potential of the game engine, the additi
  * [Play The Game](https://www.nisar.it/app/js-racer-turbo/)
  * View the [Source](https://github.com/nisar86/js-racer-turbo)
 
-Incrementally built up in 7 parts:
+Game and demo modes:
 
  * Play the [Game: Turbo Fastest Lap](https://www.nisar.it/app/js-racer-turbo/turbo-fastest-lap.php)
  * Play the [Game: Turbo Out Of Time](https://www.nisar.it/app/js-racer-turbo/turbo-out-of-time.php)
@@ -42,7 +42,7 @@ JS Racer Turbo runs on **Apache Web Server**, so:
 
 # Performance
 
-The performance of this game is **very** machine/browser dependent. It works quite well in modernbrowsers, especially those with GPU canvas acceleration, but a bad graphics driver can kill it stone dead. So your mileage may vary.Access the settings panel to configure the graphic settings, ***(the graphics settings below can have a major impact on performance)*** controls are available to change the rendering resolution, the quality of the textures, the drawing distance, weather conditions.
+The performance of this game is **very** machine/browser dependent. It works quite well in modernbrowsers, especially those with GPU canvas acceleration, but a bad graphics driver can kill it stone dead. So your mileage may vary. Access the settings panel to configure the graphic settings, ***(the graphics settings below can have a major impact on performance)*** controls are available to change the rendering resolution, the quality of the textures, the drawing distance, weather conditions.
 
 **You can play on desktops, tablets, smartphones**, on Linux, Microsoft Windows, Android, (Apple Mac and iOS) systems. 
 The game system has been developed to fully adapt to the most popular browser window, at any size. 
@@ -81,7 +81,7 @@ that also makes use of a database.
  * **Game Pages** : In the main folder are the pages of the game, each page is a different game mode .
  * **Includes Folder** : Contains the game structure files divided into **public** and **core** folders. 
  * **Public Folder** contains all items viewed by the user. 
- * **Core Folder** contains all the php functions used to manage some options that configure the pages and texts. *Direct access to these files has been inhibited, certainly the support of an IT security specialist would be useful.*
+ * **Core Folder** contains all the php functions used to manage some options that configure the pages and texts. *Direct access to these files has been inhibited.*
  * **Assets Folder** : Contains javascript code, librarys, css and all multimedia materials. **All contents are divided by area of expertise,** for example **in the game folder there are game scripts, css and media.**
 * **Game files** : The main game files are **jsr-engine.js, jsr-game.js** and **style.css**. *The three demos each have their own script (to maintain a good level of simplicity in the code).*
 * **jsr-engine.js** : All the main scripts can be found here. This file contains the game engine and all javascript components, used by all game modes and demos. The idea is, as far as possible, never to repeat portions of similar or identical code but rather insert the code that is able to use it when necessary with a modular approach. 
@@ -148,7 +148,7 @@ that also makes use of a database.
  * Through the file jsr-game.js it **sets for a determined period of time** (between a starting date and an ending date) **a combination of weather effects, landscape and CSS filters**. 
  * The **Halloween period** (10/29 - 11/02) and the **winter period** (**holiday season** | 12/15 - 01/15) are set so that the game starts with special conditions. 
 * **Vibration device**: The device vibrates when certain game events occur (*it is not supported by all devices*).
-* New **Soundtrack** and new **audio Fx sounds**. The soundtrack was created by *[Roborama](https://ghostcity.bandcamp.com/album/s-t-5)*, *[Ankubu](https://ankubu.bandcamp.com/)* and *Serpe Terror*. The Fx audio sounds were created in collaboration with *[No-oN](http://www.havesomenoon.com/)* who made most of the sounds. Read the license for more information.
+* New **Soundtrack** and new **audio Fx sounds** (the soundtrack was created by *[Roborama](https://ghostcity.bandcamp.com/album/s-t-5)*, *[Ankubu](https://ankubu.bandcamp.com/)* and *Serpe Terror* and the Fx audio sounds were created in collaboration with *[No-oN](http://www.havesomenoon.com/)* who made most of the sounds, read the license for more information).
 * **Listening system of the soundtrack** structured in chapters on a single audio file, it is possible to switch from one track to another using the previous and next buttons or by choosing the track from the settings panel.
 * **Shuffle Music Player**: Tracks can be played in random order (can be turned on or off from the settings menu). 
 * **Soundtrack Info**: Track information is displayed whenever a track is started, when the timeline is selected and when the play state is entered.
