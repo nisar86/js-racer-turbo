@@ -2916,14 +2916,14 @@
             });
             
             // Show info when I start the track from the player.
-            $(document).on('click','.modal.audio .music_options .audio-player .play-pause-btn', function(){
+            $(document).on('click','.modal.audio .soundtrack_player .audio-player .play-pause-btn', function(){
                 if( jsr.HelperCheckHtml5AudioIsPlaying(soundtrack) == true ) {
                     showAndHideMusicTrackInfo(jsr.Vars.musicPlayerInfoMs);
                 }
             });
             
             // Show info when interacting with the tempo control and only when the track is playing.
-            $(document).on('click','.modal.audio .music_options .audio-player .controls__slider', function(){
+            $(document).on('click','.modal.audio .soundtrack_player .audio-player .controls__slider', function(){
                 if( jsr.HelperCheckHtml5AudioIsPlaying(soundtrack) == true ) {
                     showAndHideMusicTrackInfo(jsr.Vars.musicPlayerInfoMs);
                 }
