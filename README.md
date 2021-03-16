@@ -6,8 +6,7 @@ Responsive browser game, compatible with computers and mobile devices.
 
 *JS Racer Turbo - Let's give the Turbo to racing and development!*
 
-After being pleasantly impressed by the potential of the game engine, the addition of the turbo and the ability to play via the browser, I wanted to continue the development with my skills as a Front-end Developer, so in this version I focused mainly on graphic aspect (textures and interface) and user experience (usability and entertainment).
-*([Nisar Abed](https://www.nisar.it/))*
+After being pleasantly impressed by the potential of the game engine, the addition of the turbo and the ability to play via the browser, I wanted to continue the development with my skills as a Front-end Developer, so in this version I focused mainly on graphic aspect (textures and interface) and user experience (usability and entertainment). *[Nisar Abed](https://www.nisar.it/)*
 
 [![Screenshot JS Racer Turbo Out Of Time](https://www.nisar.it/app/js-racer-turbo/screenshots/js_racer_turbo_video_preview.jpg)](https://www.youtube.com/watch?v=SmYpao7-I1I)
 
@@ -37,6 +36,7 @@ You can find the description of how each part works on [CodeIncomplete.com](http
 JS Racer Turbo runs on **Apache Web Server**, so:
 
  * Save the game folder to your preferred location on your web server.
+ * Enter the path to the game folder inside the *Jsr\_Helpers* class, in the *current\_site\_url()* function (*root* case), located in *include/core/classes/class.jsr_helpers.php*.
  * Start the Apache web server and from the browser open the index.php file. 
  * Have Fun!
 
@@ -148,7 +148,7 @@ that also makes use of a database.
  * Through the file jsr-game.js it **sets for a determined period of time** (between a starting date and an ending date) **a combination of weather effects, landscape and CSS filters**. 
  * The **Halloween period** (10/29 - 11/02) and the **winter period** (**holiday season** | 12/15 - 01/15) are set so that the game starts with special conditions. 
 * **Vibration device**: The device vibrates when certain game events occur (*it is not supported by all devices*).
-* **Soundtrack** with multiple tracks and **audio Fx sounds**, all audio is new and licensed for this project (read the license for more info).
+* New **Soundtrack** and new **audio Fx sounds**. The soundtrack was created by *[Roborama](https://ghostcity.bandcamp.com/album/s-t-5)*, *[Ankubu](https://ankubu.bandcamp.com/)* and *Serpe Terror*. The Fx audio sounds were created in collaboration with *[No-oN](http://www.havesomenoon.com/)* who made most of the sounds. Read the license for more information.
 * **Listening system of the soundtrack** structured in chapters on a single audio file, it is possible to switch from one track to another using the previous and next buttons or by choosing the track from the settings panel.
 * **Shuffle Music Player**: Tracks can be played in random order (can be turned on or off from the settings menu). 
 * **Soundtrack Info**: Track information is displayed whenever a track is started, when the timeline is selected and when the play state is entered.
@@ -233,7 +233,6 @@ that also makes use of a database.
 
 The game is licensed under a **Creative Commons Attribution 4.0 International (CC BY 4.0) Public License** which includes most of the assets, **except for some components which are subject to their own licenses**.
 Read the license documentation attached to JS Racer Turbo for more information *(LICENSE.txt, license.html)*.
-
 
 * [License of JS Racer Turbo](https://www.nisar.it/app/js-racer-turbo/license.html)
 
