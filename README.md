@@ -148,7 +148,7 @@ that also makes use of a database.
  * Through the file jsr-game.js it **sets for a determined period of time** (between a starting date and an ending date) **a combination of weather effects, landscape and CSS filters**. 
  * The **Halloween period** (10/29 - 11/02) and the **winter period** (**holiday season** | 12/15 - 01/15) are set so that the game starts with special conditions. 
 * **Vibration device**: The device vibrates when certain game events occur (*it is not supported by all devices*).
-* New **Soundtrack** and new **audio Fx sounds** (the soundtrack was created by *[Roborama](https://ghostcity.bandcamp.com/album/s-t-5)*, *[Ankubu](https://ankubu.bandcamp.com/)* and *Serpe Terror* and the Fx audio sounds were created in collaboration with *[No-oN](http://www.havesomenoon.com/)* who made most of the sounds, read the license for more information).
+* New **Soundtrack** and new **audio Fx sounds** (the soundtrack was created by *[Roborama](https://ghostcity.bandcamp.com/album/s-t-5)*, *[Ankubu](https://ankubu.bandcamp.com/)* and *Serpe Terror* and the Fx audio sounds were created in collaboration with *[No-oN](http://www.havesomenoon.com/)* who made the game over musics and the most of the sounds, read the license for more information).
 * **Listening system of the soundtrack** structured in chapters on a single audio file, it is possible to switch from one track to another using the previous and next buttons or by choosing the track from the settings panel.
 * **Shuffle Music Player**: Tracks can be played in random order (can be turned on or off from the settings menu). 
 * **Soundtrack Info**: Track information is displayed whenever a track is started, when the timeline is selected and when the play state is entered.
