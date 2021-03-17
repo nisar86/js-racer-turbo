@@ -139,6 +139,34 @@ if(!defined('Security')) {
                     </small>
                 </div>
                 
+                <?php // Sounds ?>
+                <div class="row txt_big separator">
+                    <strong>Sound</strong>
+                </div>
+                <div class="row">
+                    <strong>
+                        No-oN
+                    </strong> 
+                    <small>
+                        <a class="link_light" href="http://www.havesomenoon.com/" title="No-oN" target="_blank" rel="nofollow">
+                            <div class="css_icon i_link"></div>
+                        </a>
+                    </small>
+                     - 
+                    <small>
+                         Game over musics and Audio Fx
+                    </small>
+                </div>
+                <div class="row">
+                    <strong>
+                        Nisar Abed
+                    </strong>
+                     - 
+                    <small>
+                         Audio Fx
+                    </small>
+                </div>
+                
                 <?php // License ?>
                 <div class="row txt_big separator">
                     <strong>License</strong>
