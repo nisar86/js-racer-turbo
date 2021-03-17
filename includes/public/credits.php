@@ -154,7 +154,7 @@ if(!defined('Security')) {
                     </small>
                      - 
                     <small>
-                         Game over musics and Audio Fx
+                         Game over musics and Audio Fx.
                     </small>
                 </div>
                 <div class="row">
@@ -163,7 +163,7 @@ if(!defined('Security')) {
                     </strong>
                      - 
                     <small>
-                         Audio Fx
+                         Audio Fx.
                     </small>
                 </div>
                 
