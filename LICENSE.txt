@@ -72,6 +72,11 @@ following copyright and permission notices:
   Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
   www.havesomenoon.com , www.nisar.it
 
+- Game Over Musics 
+  Copyright (C) 2021 No-oN - 
+  Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
+  www.havesomenoon.com
+
 - Graphics (Sprite and Background) 
   Copyright (C) 2020, 2021 Nisar Abed,
   Creative Commons Attribution 4.0 International (CC BY 4.0) Public License,
