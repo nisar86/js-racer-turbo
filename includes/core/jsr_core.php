@@ -1,7 +1,7 @@
 <?php 
 // Security
 if(!defined('Security')) { 
-    die( header('location: ../../') ); 
+    die( header('location: ../../') );
 } 
 //=======================================================
 // CORE > JS Racer Turbo
