@@ -68,7 +68,7 @@ if(!defined('Security')) {
                     </i>
                 </div>
                 <div class="row">
-                    This software was developed from the work of:
+                    This software was developed starting from the work of:
                 </div>
                 <div class="row">
                     <strong>Jake Gordon</strong> 
