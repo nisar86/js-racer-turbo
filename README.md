@@ -175,7 +175,7 @@ that also makes use of a database.
 
 # In the Future
 
-*It's quite astounding what it takes to actually finish a game, even a simple one. *
+*It's quite astounding what it takes to actually finish a game, even a simple one.*
 
 **If we were to try to turn it into a real game we would have to consider:**
 
