@@ -221,11 +221,11 @@ class Jsr_Helpers {
                 switch ( $code ) {
                     // Title
                     case 'title':
-                        $html = 'JS Racer Turbo | Racing Game';
+                        $html = 'JS Racer Turbo | JavaScript Racing Game';
                         break;
                     // Description
                     case 'description':
-                        $html = 'OutRun inspired racing game in Retrowave / Synthwave style. Responsive browser game, compatible with computers and mobile devices. | Javascript Racer Turbo';
+                        $html = 'OutRun inspired racing game in Retrowave / Synthwave style. Responsive browser game, compatible with computers and mobile devices. | JavaScript Racer Turbo';
                         break;
                 }
                 break;
