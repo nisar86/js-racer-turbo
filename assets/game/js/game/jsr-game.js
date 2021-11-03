@@ -270,7 +270,8 @@
             dateTodayIsThisPeriod == 'halloween' ) {
             switch (true) {
                 // Days of Halloween or Halloween is required.
-                case ( isHalloweenDays ):
+                // Css filter not compatible with iOS and Safari browser.
+                case ( isHalloweenDays && jsr.Current.device != 'ios' && jsr.Current.browser != 'isSafari' ):
                     currentCssFilter = 'dynamicBlackAndWhite';
                     break;
                 default:
