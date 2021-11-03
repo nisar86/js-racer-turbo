@@ -1347,6 +1347,8 @@
                     return 'isNotDetected';
             }
         }
+        jsr.Current.browser = getBrowser();
+        // console.log(jsr.Current.browser);
         
         //=============================================
         // Set and Changing Landscape
