@@ -10,7 +10,7 @@ if(!defined('Security')) {
 /*
 Currently game version.
 */
-define( 'JS_RACER_TURBO_VERSION', '1.2.0' );
+define( 'JS_RACER_TURBO_VERSION', '1.2.1' );
 
 //=======================================================
 // ADMIN
